@@ -1,0 +1,7 @@
+.cell {
+  border: solid 1px white;
+  line-height: 12px;
+  overflow: visible;
+  position: absolute;
+  text-indent: 2px;
+}
